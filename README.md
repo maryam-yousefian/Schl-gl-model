@@ -1,1 +1,1 @@
-# Schl-gl-model
+# Schlogl model
